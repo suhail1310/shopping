@@ -1,0 +1,31 @@
+{
+	"shopDetails": [{
+			"shopNumber": " Phionex Mall, Viman Nagar Road, Viman Nagar, Pune, Maharashtra ",
+			"ShopAddress": {
+				"number": "No. 207",
+				"postalCode": "411014"
+			}
+		},
+		{
+			"shopNumber": " Ground Floor, KPCT B-Wing,S.No-16, Fatimanagar, Fatima Nagar, Wanowrie, Pune, Maharashtra ",
+			"ShopAddress": {
+				"number": "No. 16",
+				"postalCode": "411040"
+			}
+		},
+		{
+			"shopNumber": " Farena Corporate Park, Unit No.3 Ground Floor, Magarpatta, Magarpatta City, Hadapsar, Pune, Maharashtra  ",
+			"ShopAddress": {
+				"number": "Unit No.3",
+				"postalCode": "411013"
+			}
+		},
+		{
+			"shopNumber": " Shop No. 1-6, Harmony Co-op Housing Society Ltd, Kalyani Nagar, Nilanjali Society, Kalyani Nagar, Pune, Maharashtra   ",
+			"ShopAddress": {
+				"number": "Shop No .1 - 6",
+				"postalCode": 411006
+			}
+		}
+	]
+}
